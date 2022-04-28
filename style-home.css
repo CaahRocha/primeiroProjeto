@@ -1,0 +1,18 @@
+body {
+    background: #EFE7BC;
+}
+ 
+ h1 {
+      text-align: center;
+      color: #FF45B5;
+ }
+
+
+p {
+     color: #FF75D8;
+}
+
+#banner {
+    width: 30%;
+    margin:left;
+}
